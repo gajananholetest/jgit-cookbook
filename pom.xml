@@ -8,6 +8,7 @@
   <name>jgit-cookbook</name>
   <url>http://maven.apache.org</url>
 
+	
   <repositories>
     <repository>
       <id>jgit-repository</id>
